@@ -4,5 +4,6 @@ choco install lastpass -y
 choco install lastpass-for-applications -y
 choco install fiddler -y
 # choco install visualstudiocommunity2013 -y
+choco install visualstudiocode -y
 choco install python2 -y
 choco install pip -y
